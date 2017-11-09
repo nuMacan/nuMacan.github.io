@@ -1,0 +1,22 @@
+h1 { 
+	text-align: center; 
+	color: darkturquoise;
+	font-size-adjust: 5em; 
+}
+
+mark.turquoise {color:white;
+				background: none;
+}
+
+p { font-family: monospace; color: white;
+
+}
+
+h2 { color:white; 
+}
+
+img.center {
+	display:block; margin-left:auto; margin-right:auto;
+}
+
+body { background-color:black; }
